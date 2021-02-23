@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.e0395802.chunk.css",
+    "main.js": "/homepage/static/js/main.958df819.chunk.js",
+    "main.js.map": "/homepage/static/js/main.958df819.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.89e264f6.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.89e264f6.js.map",
+    "static/js/2.92ec6bb1.chunk.js": "/homepage/static/js/2.92ec6bb1.chunk.js",
+    "static/js/2.92ec6bb1.chunk.js.map": "/homepage/static/js/2.92ec6bb1.chunk.js.map",
+    "static/js/3.801cb8b3.chunk.js": "/homepage/static/js/3.801cb8b3.chunk.js",
+    "static/js/3.801cb8b3.chunk.js.map": "/homepage/static/js/3.801cb8b3.chunk.js.map",
+    "static/js/4.bc462c51.chunk.js": "/homepage/static/js/4.bc462c51.chunk.js",
+    "static/js/4.bc462c51.chunk.js.map": "/homepage/static/js/4.bc462c51.chunk.js.map",
+    "static/js/5.49ca2a10.chunk.js": "/homepage/static/js/5.49ca2a10.chunk.js",
+    "static/js/5.49ca2a10.chunk.js.map": "/homepage/static/js/5.49ca2a10.chunk.js.map",
+    "static/js/6.b24557b4.chunk.js": "/homepage/static/js/6.b24557b4.chunk.js",
+    "static/js/6.b24557b4.chunk.js.map": "/homepage/static/js/6.b24557b4.chunk.js.map",
+    "static/js/7.0d803250.chunk.js": "/homepage/static/js/7.0d803250.chunk.js",
+    "static/js/7.0d803250.chunk.js.map": "/homepage/static/js/7.0d803250.chunk.js.map",
+    "static/js/8.7cbad4dd.chunk.js": "/homepage/static/js/8.7cbad4dd.chunk.js",
+    "static/js/8.7cbad4dd.chunk.js.map": "/homepage/static/js/8.7cbad4dd.chunk.js.map",
+    "static/js/9.008fa056.chunk.js": "/homepage/static/js/9.008fa056.chunk.js",
+    "static/js/9.008fa056.chunk.js.map": "/homepage/static/js/9.008fa056.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "static/css/main.e0395802.chunk.css.map": "/homepage/static/css/main.e0395802.chunk.css.map",
+    "static/js/2.92ec6bb1.chunk.js.LICENSE.txt": "/homepage/static/js/2.92ec6bb1.chunk.js.LICENSE.txt",
+    "static/js/8.7cbad4dd.chunk.js.LICENSE.txt": "/homepage/static/js/8.7cbad4dd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/homepage/static/media/bg-effects.2715491b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89e264f6.js",
+    "static/js/2.92ec6bb1.chunk.js",
+    "static/css/main.e0395802.chunk.css",
+    "static/js/main.958df819.chunk.js"
+  ]
+}
